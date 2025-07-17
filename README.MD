@@ -1,6 +1,6 @@
 # Howdy, I'm Francesco Romano
 
-Research Engineer @ BCDC | AI + Robotics | 🛠DevOps for LLMs | Indoor Jungle Keeper
+Research Engineer @ BCDC 
 
 ---
 
