@@ -1,19 +1,19 @@
-# 👋 Hey, I'm Franky Romano
+# Howdy, I'm Francesco Romano
 
-🧠 Research Engineer @ BCDC | 🤖 AI + Robotics | 🛠️ DevOps for LLMs | 🌱 Indoor Jungle Keeper
-
----
-
-### ⚙️ What I Build
-
-- 🧠 Hosting and optimizing large language models (LLMs) with [vLLM](https://github.com/vllm-project/vllm), Ollama, and Open Web UI
-- 🧪 Custom AI-serving infrastructure with A100s, inference APIs, HTTPS, and container orchestration
-- 🛰️ Planning systems with RDF/OWL ontologies and geospatial inference
-- 🪴 Compact tech projects for everyday life — from smart garden automation to 3D-printed robotics
+Research Engineer @ BCDC | AI + Robotics | 🛠DevOps for LLMs | Indoor Jungle Keeper
 
 ---
 
-### 🧰 Stack & Tools I Love
+### What I Build
+
+- Hosting and optimizing large language models (LLMs) with [vLLM](https://github.com/vllm-project/vllm), Ollama, and Open Web UI
+- Custom AI-serving infrastructure with A100s, inference APIs, HTTPS, and container orchestration
+- Planning systems with RDF/OWL ontologies and geospatial inference
+- Compact tech projects for everyday life — from smart garden automation to 3D-printed robotics
+
+---
+
+### Stack & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
@@ -27,14 +27,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fwromano&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwromano&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwromano&theme=gruvbox)
 
 ---
 
-### 🔗 Connect
+### Connect
 
 - 🌐 [fwromano.github.io](https://fwromano.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fwromano/)
