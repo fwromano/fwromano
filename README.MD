@@ -30,7 +30,7 @@ Research Engineer @ BCDC
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fwromano&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwromano&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwromano&layout=compact&theme=gruvbox)
 
 ---
 
