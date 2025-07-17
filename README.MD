@@ -1,20 +1,6 @@
 # Howdy, I'm Francesco Romano
 
 Research Engineer @ BCDC 
-
----
-
-### What I Build
-
-- Hosting and optimizing large language models (LLMs) with [vLLM](https://github.com/vllm-project/vllm), Ollama, and Open Web UI
-- Custom AI-serving infrastructure with A100s, inference APIs, HTTPS, and container orchestration
-- Planning systems with RDF/OWL ontologies and geospatial inference
-- Compact tech projects for everyday life — from smart garden automation to 3D-printed robotics
-
----
-
-### Stack & Tools I Use
-
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
@@ -24,16 +10,17 @@ Research Engineer @ BCDC
 ![vLLM](https://img.shields.io/badge/-vLLM-333?style=flat)
 ![Ollama](https://img.shields.io/badge/-Ollama-333?style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
-
 ---
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fwromano&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwromano&layout=compact&theme=gruvbox)
+---
+### What I Build
+
+- Hosting and optimizing large language models (LLMs) with [vLLM](https://github.com/vllm-project/vllm), Ollama, and Open Web UI
+- Custom AI-serving infrastructure with A100s, inference APIs, HTTPS, and container orchestration
+- Planning systems with RDF/OWL ontologies and geospatial inference
+- Compact tech projects for everyday life — from smart garden automation to 3D-printed robotics
 
 ---
-
 ### Connect
 
 - 🌐 [fwromano.github.io](https://fwromano.github.io)
